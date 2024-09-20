@@ -80,7 +80,9 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+
+# Intentionally tracking /dist directory
+# dist
 
 # Gatsby files
 .cache/
